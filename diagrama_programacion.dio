@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="MbKg761eKfHCDAVTrrDe" name="Página-1">
+        <mxGraphModel dx="1143" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="iOgh1lvXaKh-jraMa2kL-5" edge="1" parent="1" source="iOgh1lvXaKh-jraMa2kL-1" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="iOgh1lvXaKh-jraMa2kL-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="iOgh1lvXaKh-jraMa2kL-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Programador" vertex="1">
+                    <mxGeometry height="60" width="30" x="120" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="_b5xmSpH9ecyFWwJYORB-5" edge="1" parent="1" source="iOgh1lvXaKh-jraMa2kL-2" style="edgeStyle=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="_b5xmSpH9ecyFWwJYORB-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="iOgh1lvXaKh-jraMa2kL-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Dueño" vertex="1">
+                    <mxGeometry height="60" width="30" x="120" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="iOgh1lvXaKh-jraMa2kL-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Cliente" vertex="1">
+                    <mxGeometry height="60" width="30" x="370" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="iOgh1lvXaKh-jraMa2kL-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Codificación de la aplicación para conectar a los usuarios." vertex="1">
+                    <mxGeometry height="80" width="120" x="200" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="iOgh1lvXaKh-jraMa2kL-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Uso de la aplicación para ordenar mantenimientos a domicilio o acudir a un taller.para hablar con un experto" vertex="1">
+                    <mxGeometry height="80" width="190" x="165" y="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="_b5xmSpH9ecyFWwJYORB-3" edge="1" parent="1" source="_b5xmSpH9ecyFWwJYORB-1" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="iOgh1lvXaKh-jraMa2kL-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="_b5xmSpH9ecyFWwJYORB-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Taller" vertex="1">
+                    <mxGeometry height="60" width="30" x="370" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="_b5xmSpH9ecyFWwJYORB-2" edge="1" parent="1" source="iOgh1lvXaKh-jraMa2kL-3" style="edgeStyle=none;html=1;entryX=0.805;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;" target="iOgh1lvXaKh-jraMa2kL-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="_b5xmSpH9ecyFWwJYORB-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Gestión de los pagos y del personal que están relacionados directamente con la aplicación." vertex="1">
+                    <mxGeometry height="80" width="185" x="167.5" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="_b5xmSpH9ecyFWwJYORB-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Diagrama de procesos para la codificación de la aplicación y rol del dueño de la aplicación.&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="130" width="500" x="10" y="10" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
